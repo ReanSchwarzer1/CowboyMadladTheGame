@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c6fe6f8f8ac07bd44a63b222949532d7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rosewood Std
+  fontNames:
+  - Rosewood Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4ad21fc7cfe39e64bb7f098e082ed1ac, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
